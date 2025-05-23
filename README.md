@@ -123,6 +123,15 @@ http://192.168.15.8:8080/frases/
 
 ---
 
+##👨‍💻 Equipe
+
+- **Gabriela Liborio de Souza** · RM 557810
+- **Giovane Su Xincheng** · RM 95369
+- **Lucas Bracco Yamamoto** · RM 554458
+- **Marina Yumi Kanadani** · RM 558404
+
+---
+
 ## 📄 Licença
 
 Projeto acadêmico desenvolvido para o Challenge FIAP 2025 em parceria com a Softtek.  
